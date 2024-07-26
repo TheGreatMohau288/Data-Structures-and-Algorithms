@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Venus
+comment1.params=name\ colour\ size\ age\ numberOfDays\ distanceFromStar
+comment1.target=Venus(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Star
+comment1.params=name\ colour\ size\ age
+comment1.target=Star(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=age
+comment10.target=void\ setAge(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ displayInfo()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getColour()
+comment6.params=colour
+comment6.target=void\ setColour(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getSize()
+comment8.params=size
+comment8.target=void\ setSize(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getAge()
+numComments=12
